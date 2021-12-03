@@ -1,7 +1,8 @@
 
 function mainInit(){
 
-	//Code here
+	//Call your functions here
+	mapMain()
 
 }
 
